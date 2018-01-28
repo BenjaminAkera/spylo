@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_37">
+        <Placemark id="feat_38">
+            <name>Mulago, Kukisawe Stage</name>
+            <Point id="geom_35">
+                <coordinates>32.57694,0.34494,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_39">
+            <name>Kyebando, Kyebando Ring Road</name>
+            <Point id="geom_36">
+                <coordinates>32.587270000000004,0.3527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_40">
+            <name>Jamaica Hair Saloon</name>
+            <Point id="geom_37">
+                <coordinates>32.57678,0.34336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_41">
+            <name>Kobil Petrol Station, Corner Old Kira Road and Kira Road</name>
+            <Point id="geom_38">
+                <coordinates>32.58935,0.34204,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_42">
+            <name>Kamokya Stage</name>
+            <Point id="geom_39">
+                <coordinates>32.58958,0.34231999999999996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_43">
+            <name>Kamokya Stage</name>
+            <Point id="geom_40">
+                <coordinates>32.58913,0.34167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_44">
+            <name>Gapco Petrol Station</name>
+            <Point id="geom_41">
+                <coordinates>32.58638,0.33926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_45">
+            <name>Kayunga Stage</name>
+            <Point id="geom_42">
+                <coordinates>32.58574,0.33884000000000003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_46">
+            <name>City Oil Petrol Station</name>
+            <Point id="geom_43">
+                <coordinates>32.58525,0.33816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_47">
+            <name>Uganda National Museum</name>
+            <Point id="geom_44">
+                <coordinates>32.58186,0.33675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_48">
+            <name>Kalerwe Taxi Park</name>
+            <Point id="geom_45">
+                <coordinates>32.57261,0.35278000000000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_49">
+            <name>Kalerwe Taxi Park</name>
+            <Point id="geom_46">
+                <coordinates>32.5719,0.35226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_50">
+            <name>Kalerwe, Kalerwe Stage</name>
+            <Point id="geom_47">
+                <coordinates>32.57244,0.35420999999999997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_51">
+            <name>Bus Bay, Kira Road Police Station</name>
+            <Point id="geom_48">
+                <coordinates>32.59404,0.34315999999999997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_52">
+            <name>Kira Road, Police Station</name>
+            <Point id="geom_49">
+                <coordinates>32.59434,0.34295,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_53">
+            <name>Mulago Stage</name>
+            <Point id="geom_50">
+                <coordinates>32.57777,0.33538,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_54">
+            <name>Total Bukoto Service Station</name>
+            <Point id="geom_51">
+                <coordinates>32.59689,0.34546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_55">
+            <name>Furniture City</name>
+            <Point id="geom_52">
+                <coordinates>32.59839,0.3482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_56">
+            <name>Furniture City</name>
+            <Point id="geom_53">
+                <coordinates>32.59861,0.34824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_57">
+            <name>Ministry of Health, Corner Nakasero Hill Road and Makerere Hill Road</name>
+            <Point id="geom_54">
+                <coordinates>32.57615,0.33229000000000003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_58">
+            <name>Corner Bukoto Kisasi Road and Kira Road</name>
+            <Point id="geom_55">
+                <coordinates>32.599059999999994,0.34861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_59">
+            <name>Kabira Country Club</name>
+            <Point id="geom_56">
+                <coordinates>32.59963,0.34897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_60">
+            <name>Bus Bay, Kabira</name>
+            <Point id="geom_57">
+                <coordinates>32.599959999999996,0.34914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_61">
+            <name>Wandengeya Stage</name>
+            <Point id="geom_58">
+                <coordinates>32.57461,0.33102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_62">
+            <name>Kamwokya-Ntinda Stage</name>
+            <Point id="geom_59">
+                <coordinates>32.5744,0.33103,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_63">
+            <name>Bwaise Roundabout</name>
+            <Point id="geom_60">
+                <coordinates>32.56288,0.35047,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_64">
+            <name>Kenjoy Supermarket</name>
+            <Point id="geom_61">
+                <coordinates>32.60246,0.34984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_65">
+            <name>Young Man Christian Association</name>
+            <Point id="geom_62">
+                <coordinates>32.57464,0.32874000000000003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_66">
+            <name>Bethesda Medical Centre, Makerere Hill Road</name>
+            <Point id="geom_63">
+                <coordinates>32.57212,0.32915,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_67">
+            <name>Margies Stationary Shop, Nanfumambi Road</name>
+            <Point id="geom_64">
+                <coordinates>32.56111,0.34494,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_68">
+            <name>Makerere University Taxi Stage</name>
+            <Point id="geom_65">
+                <coordinates>32.57124,0.32869,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_69">
+            <name>Canan Land Stage, Nanfubambi Road</name>
+            <Point id="geom_66">
+                <coordinates>32.56069,0.34399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_70">
+            <name>Corner Upper Naguru E Road and Kira Road</name>
+            <Point id="geom_67">
+                <coordinates>32.60499,0.35023000000000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_71">
+            <name>Grand Global Stage, Sir Apollo Kaggwa Road</name>
+            <Point id="geom_68">
+                <coordinates>32.56427,0.33235,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_72">
+            <name>Hilside Plaza Hotel</name>
+            <Point id="geom_69">
+                <coordinates>32.60652,0.35181999999999997,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
